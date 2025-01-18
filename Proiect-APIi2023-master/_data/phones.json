@@ -1,0 +1,42 @@
+[
+        {
+            "_id": "641dc7cc39da3415117ff728",
+            "name": "Samsung Galaxy S23 Ultra",
+            "brand": "Samsung",
+            "description": "black 5g 256gb 8gb ram ...",
+            "price": 6179,
+            "os": "Android",
+            "slugname": "samsung-galaxy-s23-ultra",
+            "__v": 0
+        },
+        {
+            "_id": "641dc7ef39da3415117ff72a",
+            "name": "Huawei Mate 50 Pro",
+            "brand": "Huawei",
+            "description": "orange 5g 512gb 8gb ram ...",
+            "price": 6149,
+            "os": "Android",
+            "slugname": "huawei-mate-50-pro",
+            "__v": 0
+        },
+        {
+            "_id": "641dc7ff39da3415117ff72c",
+            "name": "iPhone 14",
+            "brand": "Apple",
+            "description": "blue 5g 512gb ...",
+            "price": 6099,
+            "os": "iOS",
+            "slugname": "iphone-14",
+            "__v": 0
+        },
+        {
+            "_id": "641dc91339da3415117ff734",
+            "name": "iPhone 14 Pro",
+            "brand": "Apple",
+            "description": "purple 5g 128gb ...",
+            "price": 5599,
+            "os": "iOS",
+            "slugname": "iphone-14-pro",
+            "__v": 0
+        }
+]

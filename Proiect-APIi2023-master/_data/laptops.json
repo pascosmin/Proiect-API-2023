@@ -1,0 +1,37 @@
+[
+        {
+            "_id": "641c7fda44cb2a6754e0f02a",
+            "name": "ASUS Vivobook 15",
+            "brand": "Asus",
+            "description": "i5 512ssd 8gb ram ...",
+            "price": 2199,
+            "slugname": "asus-vivobook-15",
+            "__v": 0
+        },
+        {
+            "_id": "641c7fe844cb2a6754e0f02c",
+            "name": "ASUS TUF F15",
+            "brand": "Asus",
+            "description": "i5 rtx 3050 8gb ram ...",
+            "price": 4699,
+            "slugname": "asus-tuf-f15",
+            "__v": 0
+        },
+        {
+            "_id": "641c7ff344cb2a6754e0f02e",
+            "name": "APPLE Macbook Air 13",
+            "brand": "Apple",
+            "description": "apple m1 256gb ssd 8gb ram ...",
+            "price": 4748,
+            "slugname": "apple-macbook-air-13",
+            "__v": 0
+        },
+        {
+            "_id": "641c800344cb2a6754e0f030",
+            "name": "ACER Nitro 5",
+            "brand": "Acer",
+            "price": 2999,
+            "slugname": "acer-nitro-5",
+            "__v": 0
+        }
+]
